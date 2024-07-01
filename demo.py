@@ -4,3 +4,4 @@ c=a+b
 b=a+c
 a=b+c
 print(f'The values of the following are a:{a}, b:{b}and c:{c}')
+print(f'The values of the following are a:{b}, b:{c}and c:{a}')
